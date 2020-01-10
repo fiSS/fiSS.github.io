@@ -1,14 +1,4 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('../fonts/icon_fonts/icomoon.eot?p5dfea');
-  src:  url('../fonts/icon_fonts/icomoon.eot?p5dfea#iefix') format('embedded-opentype'),
-    url('../fonts/icon_fonts/icomoon.ttf?p5dfea') format('truetype'),
-    url('../fonts/icon_fonts/icomoon.woff?p5dfea') format('woff'),
-    url('../fonts/icon_fonts/icomoon.svg?p5dfea#icomoon') format('svg');
-  font-weight: normal;
-  font-style: normal;
-  font-display: block;
-  
   font-family: 'Roboto';
   src: url('../fonts/Roboto-Medium.eot');
   src: local('../fonts/Roboto Medium'), local('Roboto-Medium'),
@@ -19,6 +9,18 @@
       url('../fonts/Roboto-Medium.svg#Roboto-Medium') format('svg');
   font-weight: 500;
   font-style: normal;
+
+  font-family: 'icomoon';
+  src:  url('../fonts/icon_fonts/icomoon.eot?p5dfea');
+  src:  url('../fonts/icon_fonts/icomoon.eot?p5dfea#iefix') format('embedded-opentype'),
+    url('../fonts/icon_fonts/icomoon.ttf?p5dfea') format('truetype'),
+    url('../fonts/icon_fonts/icomoon.woff?p5dfea') format('woff'),
+    url('../fonts/icon_fonts/icomoon.svg?p5dfea#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+  
+
 }
 
 [class^="icon-"], [class*=" icon-"] {
