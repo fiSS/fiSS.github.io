@@ -1,2 +1,2 @@
 # fiSS.github.io
-REACT Приложение.
+REACT APP.
